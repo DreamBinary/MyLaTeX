@@ -1,0 +1,168 @@
+%! Author = fivv
+%! Date = 2023/11/23
+
+% Preamble
+\documentclass{article}
+
+% Packages
+\usepackage[UTF8]{ctex}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+
+%\setmainfont{Times New Roman}
+\setCJKmainfont{SimSun}[BoldFont=SimHei, ItalicFont=KaiTi]
+\setCJKsansfont{SimHei}
+\setCJKmonofont{SimSun}
+
+
+% Document
+\begin{document}
+
+    % raw text
+    \begin{verbatim}
+    ==>> 原样输出
+    \documentclass{...} % 文档类声明
+    \usepackage{...} % 宏包声明
+    \begin{document}
+    % 文档内容
+    \end{document}
+    % 此后的内容不会被编译
+    \end{verbatim}
+%    ==>> input \\
+%    \input{./include_test}
+
+%    ==>> include  \\
+%    \include{./include_test}
+    ==>> description \\
+    \begin{description}
+        \item[引擎] 全称为排版引擎，是编译源代码并生成文档的程序，如 \hologo{pdfTeX}、\hologo{XeTeX} 等。有时也称为编译器。
+        \item[格式] 是定义了一组命令的代码集。\LaTeX{} 就是最广泛应用的一个格式，高德纳本人还编写了一个简单的 \hologo{plainTeX} 格式，
+        没有定义诸如 \cmd{document\-class} 和 \cmd{section} 等等命令。
+    \end{description}
+
+    ==>> space and paragraph \\
+    Several spaces equal one space.Front spaces are ignored.
+
+    An empty line starts a new paragraph.
+    A \verb|\par| command also starts a new paragraph.
+
+    ==>> word space \\
+    Fig.1 Fig.~1\\
+
+    ==>> new line \newline
+    使用 \verb|\newline| 断行的效果
+    \newline
+    与使用 \verb|\linebreak| 断行的效果
+    \linebreak
+    进行对比。
+
+    ==>> 断词 \newline
+    I think this is: su\-per\-cal\-%
+    i\-frag\-i\-lis\-tic\-ex\-pi\-%
+    al\-i\-do\-cious. \\
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\-Aaaaaaaaaaaaaaaa\-Aaaaaaaaaaaaaaaaa\-Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa \\
+    \newpage
+
+    ==>> 目录 \newline
+    \tableofcontents
+    \newpage
+
+    ==>> 章节 \newline
+
+
+    \section{section}\label{sec:section}
+
+    \subsection{subsection}\label{subsec:subsection}
+
+    \section*{section*}\label{sec:section*}
+
+    \section*{section*2}\label{sec:section*2} \addcontentsline{toc}{section}{section*2}
+
+%    \chapter{chapter}\label{ch:chapter}
+
+    \newpage
+
+%    ==>> 标题页 \\
+    \title{Test title}
+    \author{ Mary\thanks{E-mail:*****@***.com}
+    \and Ted\thanks{Corresponding author}
+    \and Louis}
+    \date{\today}
+    \maketitle
+
+
+    \section{交叉引用}\label{sec:crossref}
+    ==>> 交叉引用 \\
+%    \begin{example}
+    A reference to this subsection
+    \label{sec:this} looks like:
+    ``see section~\ref{sec:this} on
+    page~\pageref{sec:this}.''
+%    \end{example}
+
+    ==>> 脚注 \\
+    “天地玄黄，宇宙洪荒。日月盈昃，辰宿列张。”\footnote{出自《千字文》。}
+
+    ==>> 边注 \\
+    \marginpar{\footnotesize 边注较窄，不要写过多文字，最好设置较小的字号。}
+
+
+    ==>> 列表 \\
+    \begin{itemize}
+        \item[*] first
+        \item second
+        \item third
+        \item[+] fourth
+    \end{itemize}
+
+    \begin{enumerate}
+        \item first
+        \item second
+        \item third
+        \item[+] fourth
+        \item fifth
+    \end{enumerate}
+
+    \renewcommand{\labelitemi}{\ddag}
+    \renewcommand{\labelitemii}{\dag}
+    \begin{itemize}
+        \item first
+        \begin{itemize}
+            \item second
+            \item third
+        \end{itemize}
+        \item fourth
+    \end{itemize}
+
+
+    ==>> 对齐 \\
+    \begin{center}
+        Centered text using a
+        \verb|center| environment.
+    \end{center}
+
+    \begin{flushleft}
+        Left-aligned text using a
+        \verb|flushleft| environment.
+    \end{flushleft}
+
+    \begin{flushright}
+        Right-aligned text using a
+        \verb|flushright| environment.
+    \end{flushright}
+
+    \centering
+    Centered text using a
+    \verb|\centering| command.
+
+    \raggedright
+    Left-aligned text using a
+    \verb|\raggedright| command.
+
+    \raggedleft
+    Right-aligned text using a
+    \verb|\raggedleft| command.
+    
+
+\end{document}
+
