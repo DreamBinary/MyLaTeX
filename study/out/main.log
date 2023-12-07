@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.19)  23 NOV 2023 19:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.4.19)  7 DEC 2023 17:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -393,84 +393,84 @@ Package xeCJK Warning: Redefining CJKfamily `\CJKttdefault' (FangSong).
 (D:/MyLaTeX/study/out/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 19.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 19.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 19.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 19.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 19.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 19.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 19.
-LaTeX Font Info:    Redeclaring math accent \check on input line 19.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 19.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 19.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 19.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 19.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 19.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 20.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 20.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 20.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 20.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 20.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 20.
+LaTeX Font Info:    Redeclaring math accent \check on input line 20.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 20.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 20.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 20.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 20.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 20.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 19.
+(Font)              `operators' in the math version `normal' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 19.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 20.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 19.
+(Font)              `operators' in the math version `bold' on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 19.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 19.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 19.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 19.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 19.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 19.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 20.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 19.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 19.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 19.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 20.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 19.
-Package hyperref Info: Link coloring OFF on input line 19.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 20.
+Package hyperref Info: Link coloring OFF on input line 20.
  (D:/MyLaTeX/study/out/main.out)
 (D:/MyLaTeX/study/out/main.out)
 \@outlinefile=\write3
@@ -489,7 +489,7 @@ Package fontspec Info: Could not resolve font "SimSun/I" (it probably doesn't
 (fontspec)             exist).
 
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 2
-2.
+3.
 
 (x:/MySetup/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -506,14 +506,14 @@ Package fontspec Info: Font family 'SimSun(1)' created for font 'SimSun' with
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
-./main.tex:38: Undefined control sequence.
+./main.tex:39: Undefined control sequence.
 <recently read> \hologo 
                         
-l.38 ...\item[引擎] 全称为排版引擎，是编译源代码并生成文档的程序，如 \hologo
+l.39 ...\item[引擎] 全称为排版引擎，是编译源代码并生成文档的程序，如 \hologo
                                                   {pdfTeX}、\hologo{XeTeX} 等。...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -521,8 +521,8 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./main.tex:38: Undefined control sequence.
-l.38 ...擎，是编译源代码并生成文档的程序，如 \hologo{pdfTeX}、\hologo
+./main.tex:39: Undefined control sequence.
+l.39 ...擎，是编译源代码并生成文档的程序，如 \hologo{pdfTeX}、\hologo
                                                   {XeTeX} 等。有时也称为编译器。
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -531,15 +531,15 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 39.
+(Font)              <10.53937> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 39.
+(Font)              <7> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 39.
-./main.tex:39: Undefined control sequence.
+(Font)              <5> on input line 40.
+./main.tex:40: Undefined control sequence.
 <recently read> \hologo 
                         
-l.39 ...aTeX{} 就是最广泛应用的一个格式，高德纳本人还编写了一个简单的 \hologo
+l.40 ...aTeX{} 就是最广泛应用的一个格式，高德纳本人还编写了一个简单的 \hologo
                                                   {plainTeX} 格式，
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -547,10 +547,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./main.tex:40: Undefined control sequence.
+./main.tex:41: Undefined control sequence.
 <recently read> \cmd 
                      
-l.40         没有定义诸如 \cmd
+l.41         没有定义诸如 \cmd
                         {document\-class} 和 \cmd{section} 等等命令。
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -558,10 +558,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-./main.tex:40: Undefined control sequence.
+./main.tex:41: Undefined control sequence.
 <recently read> \cmd 
                      
-l.40         没有定义诸如 \cmd{document\-class} 和 \cmd
+l.41         没有定义诸如 \cmd{document\-class} 和 \cmd
                                                 {section} 等等命令。
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -570,31 +570,31 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--58
+Underfull \hbox (badness 10000) in paragraph at lines 53--59
 \TU/SimSun(0)/m/n/10.53937 与 使 用 [][]\T1/lmtt/m/n/10.53937 \linebreak []\TU/Sim
 Sun(0)/m/n/10.53937 断 行 的 效 果
  []
 
 
-Overfull \hbox (59.00908pt too wide) in paragraph at lines 59--64
+Overfull \hbox (59.00908pt too wide) in paragraph at lines 60--65
 \T1/lmr/m/n/10.53937 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-Aaaaaaaaaaaaaaa
 a-Aaaaaaaaaaaaaaaaa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--64
+Underfull \hbox (badness 10000) in paragraph at lines 60--65
 
  []
 
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
@@ -603,28 +603,41 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--67
 \openout4 = `main.toc'.
 
  [2]
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 71--72
 
  []
 
 [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12.045> on input line 92.
+(Font)              <12.045> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 92.
+(Font)              <8> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 92.
+(Font)              <6> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7.52812> on input line 92.
+(Font)              <7.52812> on input line 93.
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
+
+
+./main.tex:167: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167     \newline
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 [5] (D:/MyLaTeX/study/out/main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
